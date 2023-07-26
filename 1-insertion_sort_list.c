@@ -1,7 +1,8 @@
+
 /*
  * File_Name: 1-insertion_sort
  * Created: 26th July, 2023
- * Author: Anyaegbuna Okechukwu and Prince Imo
+ * Author: Anyaegbuna Okechukwu Paul
  * Size_Of_File: Undefined
  * Project_Title: sorting_algorithms
  * Status: Submitted.!
@@ -146,4 +147,3 @@ void insertion_sort_list2(listint_t **list)
 		}
 	}
 }
-

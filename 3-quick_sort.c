@@ -1,7 +1,8 @@
+
 /*
  * File_Name: 3-quick_sort.c
  * Created: 26th July, 2023
- * Author: Anyaegbuna Okechukwu and Prince Imo
+ * Author: Anyaegbuna Okechukwu Paul and Prince Imo
  * Size_Of_File: Undefined
  * Project_Title: sorting_algorithms
  * Status: Submitted.!
